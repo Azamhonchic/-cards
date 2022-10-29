@@ -1,0 +1,288 @@
+{
+  "users": [
+    {
+      "id": 0.04836737805639291,
+      "email": "dsarifkulo021@gmail.com",
+      "name": "Daler",
+      "surname": "Sharifkulov",
+      "password": "2232"
+    },
+    {
+      "id": 0.04836737801232133,
+      "email": "sabina@gmail.com",
+      "name": "sabina",
+      "surname": "Adams",
+      "password": "1234"
+    },
+    {
+      "id": 0.825096057121744,
+      "email": "shokhaakramov@gmail.com",
+      "name": "Shokhrukh",
+      "surname": "Akramov",
+      "password": "1551"
+    },
+    {
+      "id": 0.942710610262516,
+      "email": "admin@gigy.app",
+      "name": "Daler",
+      "surname": "Daler",
+      "password": "1233"
+    },
+    {
+      "id": 0.4956365944456411,
+      "email": "azam@gmail.com",
+      "name": "Azam",
+      "surname": "Muradov",
+      "password": "1234"
+    },
+    {
+      "id": 0.30747668022824737,
+      "email": "azam@gmail.com",
+      "name": "Azam",
+      "surname": "Muradov",
+      "password": "123"
+    },
+    {
+      "id": 0.03200536888316741,
+      "email": "azam@gmail.com",
+      "name": "Azam",
+      "surname": "Muradov",
+      "password": "123"
+    },
+    {
+      "id": 0.18375393968062226,
+      "email": "azam@gmail.com",
+      "name": "Azam",
+      "surname": "Muradov",
+      "password": "123"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "userid": 0.04836737805639291,
+      "name": "VISA",
+      "currency": "EURO",
+      "pincode": 7777,
+      "total": 20000
+    },
+    {
+      "id": 2,
+      "userid": 0.825096057121744,
+      "name": "Mastercard",
+      "currency": "USD",
+      "pincode": 9999,
+      "total": 30000
+    },
+    {
+      "id": 0.1850342719103819,
+      "userid": 0.04836737801232133,
+      "name": "ALISHER",
+      "currency": "ISK",
+      "pincode": "1111",
+      "total": "12"
+    },
+    {
+      "id": 0.7263922671011869,
+      "userid": 0.04836737801232133,
+      "name": "ALISH2",
+      "currency": "EUR",
+      "pincode": "2222",
+      "total": "2213231"
+    },
+    {
+      "id": 0.8785828763174144,
+      "userid": 0.4956365944456411,
+      "name": "Азам",
+      "currency": "ALL",
+      "pincode": "777",
+      "total": "65475678"
+    },
+    {
+      "id": 0.5770325525126929,
+      "userid": 0.4956365944456411,
+      "name": "Azam",
+      "currency": "AMD",
+      "pincode": "777",
+      "total": "355647"
+    },
+    {
+      "id": 0.39155040042022793,
+      "userid": 0.4956365944456411,
+      "name": "Azam",
+      "currency": "AMD",
+      "pincode": "777",
+      "total": "34657567"
+    },
+    {
+      "id": 0.9706408226379459,
+      "userid": 0.4956365944456411,
+      "name": "Azam",
+      "currency": "ANG",
+      "pincode": "777",
+      "total": "76575"
+    },
+    {
+      "iz_summ": "",
+      "summ": "",
+      "categoty": "",
+      "id": 3
+    },
+    {
+      "iz_summ": "",
+      "summ": "",
+      "categoty": "",
+      "id": 4
+    },
+    {
+      "iz_summ": "",
+      "summ": "",
+      "categoty": "",
+      "id": 5
+    },
+    {
+      "iz_summ": "6566",
+      "summ": "876",
+      "categoty": "6547",
+      "id": 6
+    },
+    {
+      "iz_summ": "6566",
+      "summ": "876",
+      "categoty": "fbg",
+      "id": 7
+    },
+    {
+      "iz_summ": "",
+      "summ": "",
+      "categoty": "",
+      "id": 8
+    },
+    {
+      "iz_summ": "",
+      "summ": "",
+      "categoty": "",
+      "id": 9
+    },
+    {
+      "iz_summ": "",
+      "summ": "",
+      "categoty": "",
+      "id": 10
+    },
+    {
+      "id": 0.054552123517012774,
+      "userid": 0.4956365944456411,
+      "iz_summ": "6566",
+      "summ": "876",
+      "categoty": "fbg"
+    },
+    {
+      "id": 0.7911160424134529,
+      "userid": 0.4956365944456411,
+      "iz_summ": "6566",
+      "summ": "876",
+      "categoty": "azamhon"
+    },
+    {
+      "id": 0.07149944697434019,
+      "userid": 0.4956365944456411,
+      "name": "Azam",
+      "currency": "AFN",
+      "pincode": "777",
+      "total": "57567"
+    }
+  ],
+  "transactions": [
+    {
+      "userid": 0.825096057121744,
+      "id": 0.825048767121254,
+      "name": "Mastercard",
+      "total": 100,
+      "category": "car",
+      "date": "24.10.22"
+    },
+    {
+      "id": 0.10317063573305174,
+      "userid": 0.4956365944456411,
+      "iz_summ": "6566",
+      "summ": "876",
+      "categoty": "azamhon"
+    },
+    {
+      "id": 0.09210611913555566,
+      "userid": 0.4956365944456411,
+      "iz_summ": "6566",
+      "summ": "876",
+      "categoty": "azamhon"
+    },
+    {
+      "id": 0.5380945730827793,
+      "userid": 0.4956365944456411,
+      "name": "Azam",
+      "total": "3657",
+      "categoty": "azamhon"
+    },
+    {
+      "id": 0.5654867330656173,
+      "userid": 0.4956365944456411,
+      "name": "Азам",
+      "total": "3657",
+      "categoty": "car"
+    },
+    {
+      "id": 0.43015522332790224,
+      "userid": 0.4956365944456411,
+      "name": "66756",
+      "total": "3657tre45",
+      "categoty": "fbg"
+    },
+    {
+      "id": 0.5348755145228112,
+      "userid": 0.4956365944456411,
+      "name": "Азам",
+      "total": "3657tre45",
+      "categoty": "2022-12-10"
+    },
+    {
+      "id": 0.3355716670588238,
+      "userid": 0.4956365944456411,
+      "name": "Азам",
+      "total": "3657",
+      "categoty": "azamhon",
+      "date": "2020-10-10"
+    },
+    {
+      "id": 0.7136268258335448,
+      "userid": 0.4956365944456411,
+      "name": "Azam",
+      "total": "3657tre45",
+      "category": "car",
+      "date": "1202-02-10"
+    },
+    {
+      "id": 0.21232210346564417,
+      "userid": 0.4956365944456411,
+      "name": "Azam",
+      "total": "3657",
+      "category": "",
+      "date": ""
+    },
+    {
+      "id": 0.2518158794260603,
+      "userid": 0.4956365944456411,
+      "name": "46546",
+      "total": "3657",
+      "category": "car",
+      "date": "2020-10-10"
+    },
+    {
+      "id": 0.8474661812100259,
+      "userid": 0.825096057121744,
+      "name": "587",
+      "total": "3657",
+      "category": "car",
+      "date": "2022-10-10"
+    }
+  ]
+}
